@@ -1,8 +1,7 @@
 # Screenplay Pattern with Serenity BDD
 
-This project is a simple demonstration showing the difference between
-the [PageObject](http://martinfowler.com/bliki/PageObject.html)
-and the [Screenplay pattern](https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp),
+This project is a simple demonstration showing the
+ [Screenplay pattern](https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp),
 both implemented using the [Serenity BDD](http://serenity-bdd.info/#/) library and JUnit.
 
 The web tests you'll find here run against the http://todomvc.com/examples/angularjs/#/ application and are organised
