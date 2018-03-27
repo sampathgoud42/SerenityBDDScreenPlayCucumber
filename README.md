@@ -56,17 +56,6 @@ To run it, execute:
 mvn clean verify -Pscreenplay
 ```
 
-### Page Objects and JUnit
-
-We've also included a demo of how the tests you've just seen implemented using the Screenplay Pattern
-would have looked if they were implemented using the Page Objects.
-
-To run it, execute:
-
-```
-mvn clean verify -Ppageobjects
-```
-
 ## Reporting
 
 The Serenity reports will be generated in the `target/site/serenity` directory.
