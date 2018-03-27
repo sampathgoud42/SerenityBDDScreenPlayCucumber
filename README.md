@@ -9,20 +9,6 @@ The web tests you'll find here run against the http://todomvc.com/examples/angul
 by feature in packages under `src/test/java/net/serenitybdd/demos/todos/<pattern name>/features`.
 
 By default the tests run on Chrome, so make sure you have the latest chromedriver instance on your system path.
-## PageObjects implementation
-
-These tests use pages and steps defined in `src/main/java/net/serenitybdd/demos/todos/pageobjects`.
-
-The overall project structure is shown below:
-````
-+ model
-    Domain model classes
-+ pages
-    PageObjects
-+ steps
-    Tasks and assertions performed by the "user"
-````
-
 ## Screenplay implementation
 
 These tests use tasks, actions, questions and page elements defined in `src/main/java/net/serenitybdd/demos/todos/screenplay`.
